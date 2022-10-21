@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-10-19T09:16:07 CST" name="Surefire suite" finished-at="2022-10-19T09:16:24 CST" duration-ms="17036">
+    <groups>
+    </groups>
+    <test started-at="2022-10-19T09:16:07 CST" name="Surefire test" finished-at="2022-10-19T09:16:24 CST" duration-ms="17036">
+      <class name="com.test.SeleniumMaven.SelTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.test.SeleniumMaven.SelTest@290222c1]" started-at="2022-10-19T09:15:55 CST" name="setUp" finished-at="2022-10-19T09:16:07 CST" duration-ms="11622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="css()[pri:0, instance:com.test.SeleniumMaven.SelTest@290222c1]" started-at="2022-10-19T09:16:07 CST" name="css" finished-at="2022-10-19T09:16:12 CST" duration-ms="4769" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- css -->
+        <test-method signature="cssDisabled()[pri:0, instance:com.test.SeleniumMaven.SelTest@290222c1]" started-at="2022-10-19T09:16:12 CST" name="cssDisabled" finished-at="2022-10-19T09:16:14 CST" duration-ms="2603" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cssDisabled -->
+        <test-method signature="xpath()[pri:0, instance:com.test.SeleniumMaven.SelTest@290222c1]" started-at="2022-10-19T09:16:14 CST" name="xpath" finished-at="2022-10-19T09:16:17 CST" duration-ms="3015" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xpath -->
+        <test-method signature="xpathContains()[pri:0, instance:com.test.SeleniumMaven.SelTest@290222c1]" started-at="2022-10-19T09:16:17 CST" name="xpathContains" finished-at="2022-10-19T09:16:20 CST" duration-ms="2562" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xpathContains -->
+        <test-method signature="xpathContainsDisabled()[pri:0, instance:com.test.SeleniumMaven.SelTest@290222c1]" started-at="2022-10-19T09:16:20 CST" name="xpathContainsDisabled" finished-at="2022-10-19T09:16:22 CST" duration-ms="1970" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xpathContainsDisabled -->
+        <test-method signature="xpathDisabled()[pri:0, instance:com.test.SeleniumMaven.SelTest@290222c1]" started-at="2022-10-19T09:16:22 CST" name="xpathDisabled" finished-at="2022-10-19T09:16:24 CST" duration-ms="1934" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- xpathDisabled -->
+        <test-method is-config="true" signature="close()[pri:0, instance:com.test.SeleniumMaven.SelTest@290222c1]" started-at="2022-10-19T09:16:24 CST" name="close" finished-at="2022-10-19T09:16:26 CST" duration-ms="2394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.test.SeleniumMaven.SelTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
